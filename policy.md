@@ -21,18 +21,13 @@ b) In event of <b>absence</b>, absentee has the obligation to complete any neces
 </li>
 </ul>
 </ul>
-
 <li>
-Members are <b>not</b> required to attend planned meetings. Attendance is optional but encouraged.  
-</li>
-
-<li>
-Team leaders are required to <b>independently</b> record every meeting. Upon meeting's completion, the recording must be shared with all team members within at most 6 hours (including weekends), and a notification about the recording having been shared must be sent in the appropriate channel within 30 minutes of the event.
+Team leaders are required to independently record every meeting. Upon meeting's completion, the recording must be shared with all team members within <b>at most 6 hours (including weekends)</b>, and a notification about the recording having been shared must be sent in the appropriate channel <b>within 30 minutes of the event.</b>
 </li>
 <li>
-Team Members are required to post <b>daily</b> updates *(a.k.a. stand-up's)* in the appropriate channel (even if you have no updates), and in the appropriate sprint format (see convention.md).
+Team Members are required to post <b>daily</b> updates <i>(a.k.a. stand-up's)</i> in the appropriate channel (even if you have no updates), and in the appropriate sprint format (see convention.md).
 <ul>
-a) If a team member repeatedly posts updates of no substance, the team leader is obliged to investigate. If resolution cannot be reached, this may count as violation of 12.
+a) If a team member repeatedly posts updates of no substance, the team leader is obliged to investigate. If resolution cannot be reached, this may count as violation of 10.
 </ul>
 </li>
 	
@@ -41,7 +36,7 @@ In the event of emergency, relevant person is required to inform the rest of the
 </li>
 
 <li>
-Team activities are limited to weekdays (Monday-Friday) and to school hours (`8:45am`-`5pm`). You will <b>never</b> be expected to engage with the project outside of school hours. Any such engagement is up to you.
+Team activities are limited to weekdays (Monday-Friday) and to school hours (8:45am-5pm). You will <b>never</b> be expected to engage with the project outside of school hours. Any such engagement is up to you.
 </li>
 
 <li>
@@ -82,7 +77,7 @@ Tickets must be kept simple enough to where they can be completed within a singl
 #### Team Member Signatures
 
 
-##### ... I acknowledge that by signing this document I agree to the rules above, and that I may be expelled from the project upon violation.
+##### ... I acknowledge that by signing this document I agree to the rules above and that I may be expelled from the project upon violation.
 
 #### Disclaimer
 ##### This document has been defined with the intention of establishing an accountable and professional environment with scheduling constraints in mind. You are allowed to work at your own time and leisure, but you are still required to conduct yourself as a team member.
