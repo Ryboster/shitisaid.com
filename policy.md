@@ -2,8 +2,8 @@
 
 ##### This document stipulates the rules pertaining to the professional conduct of all persons involved in the development of shitisaid.com.
 <br>
-1. Members are **not** required to attend planned meetings. Attendance is optional but encouraged.<br>
-<tab>	a. In event of **absence**, team members are required to watch the shared recording and confirm they have watched it in the appropriate channel up to 24 hours after notification has been sent (excluding weekends).
+1. Members are **not** required to attend planned meetings. Attendance is optional but encouraged.
+&nbsp a. In event of **absence**, team members are required to watch the shared recording and confirm they have watched it in the appropriate channel up to 24 hours after notification has been sent (excluding weekends).
 		a. Lack of cursory understanding of the covered material, or covering of the material, will count as violation of 1.a. (I will assume you haven't watched the recording!)
 	b. In event of **absence**, absentee has the obligation to complete any necessary work done collectively in the recording where necessary (e.g. think tanks), and before deadline.
 
