@@ -1,0 +1,115 @@
+/* ================== GLOBAL ================== */
+        body {
+                display: flex;
+                flex-direction: column;
+                width: 100%;
+                height:100%;
+            }
+
+        #APP {
+            width: 100%;
+            height: 90%;
+            display: flex;
+            flex-direction: row;
+        }
+        
+        /* ================== HORIZONTAL ================== */
+        @media (orientation: landscape) {
+
+
+            /* ===== TOP OF PAGE ===== */
+            #TOPBAR {
+                width:100%;
+                height: 10%;
+                display: flex;
+                flex-direction: row-reverse;
+                padding-left: auto;
+            }
+
+            #CRUD {
+                width: 15%;
+            }
+
+            #TOPBARSPACER { 
+                display: flex;
+                width: 70%;
+            }
+            
+            #SIGNINBAR {
+                display: flex;
+                flex-direction: row-reverse; 
+                width: 15%;            
+            }
+            #SIGNINBAR a {
+                margin-right: 5%;
+            }
+            
+
+            /* ===== MIDDLE OF PAGE ===== */
+
+            #SIDEBAR {
+                display: flex;
+                flex-direction: column;
+                width: 10%;
+            }
+                /* ===== CONTENT HERE ===== */
+            #CONTENT {
+                display: flex;
+                flex-direction: column;
+                width: 90%;
+                height: 100%;
+                align-items: center;
+            }
+
+            #LOGO {
+                display: flex;
+                width: 100%;
+                justify-content: center;
+            }
+
+            #SEARCHBAR {
+                display: flex;
+                width: 100%;
+                justify-content: center;
+                align-items: center;
+            }
+            #SEARCHBAR input {
+                width: 35%;
+            }
+
+
+            .APPSPACER {
+                width: 10%;
+            }
+
+            #SIDEBARSLIDER {
+                display: none;
+            }
+
+            #FUNBUTTONS {
+                margin-top: 1%;
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+                width: 100%;
+            }
+
+            #FUNBUTTONS button {
+                
+            }
+
+            
+        }
+
+
+        /* ================== VERTICAL ================== */
+        @media (orientation: portrait) {
+
+            #SIDEBARSLIDER {
+                display: visible;
+            }
+
+            #SIDEBAR {
+                display: none;
+            }
+        }

@@ -1,0 +1,72 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<link rel="stylesheet" href="/static/signin.css">
+{% endblock head %}
+
+{% block pagecontent %}
+
+
+<!-- 
+Multipurpose page for registering and logging in.
+Default is logging in. If email is not recognized,
+confirm password field is exposed prompting to register,
+
+
+-->
+
+<form  method="POST" action="/signin">
+
+
+    <h1> Sign in now and keep track of shit you said! </h1>
+
+    <!-- ===== EMAIL ===== -->
+    <div>
+        <div>
+            <label> Email </label>
+        </div>
+        <div>
+            <input type="email" name="email">
+        </div>
+    </div>
+
+    <!-- ===== PASSWORD ===== -->
+    <div>
+        <div>
+            <label> Password </label>
+        </div>
+        <div>
+            <input type="password" name="password"> 
+        </div>
+    </div>
+
+    <!-- ===== PASSWORD CONFIRMATION ===== -->
+    <div id="CONFIRMPASSWORDFIELD" style="display: none;">
+        <div>
+            <label> Confirm Password </label>
+        </div>
+        <div>
+            <input type="password"> 
+        </div>
+    </div>
+
+    <!-- ===== CAPTCHA ===== -->
+    <div>
+        <div>
+
+        </div>
+        <div>
+
+        </div>
+    </div>
+
+    <h3 id="MESSAGEBOX" style="display:none;"></h3>
+
+    <div id="FUNBUTTONS">
+        <button type="submit">
+            Login/Register
+        </button>
+    </div>
+</form>
+
+{% endblock %}

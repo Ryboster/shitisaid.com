@@ -1,0 +1,58 @@
+<head>
+<link rel="stylesheet" href="/static/main.css">
+
+{% block head %}
+{% endblock head %}
+
+</head>
+
+
+<body>
+
+    <!-- Houses signin buttons and user settings -->
+    <div id="TOPBAR"> 
+
+        <div id="SIGNINBAR">
+            <a href="/signin"> sign in </a>
+        </div>
+        
+        <div id="TOPBARSPACER">
+
+        </div>
+
+        <div id="CRUD">
+            <a href="/manage"> manage </a>
+        </div>
+    </div>
+
+
+    <!-- Horizontal layout container housing sidebar and search engine-->
+    <div id="APP">
+
+        <!-- user CRUD -->
+        <div class="APPSPACER">
+
+        </div>
+
+        <!-- Search engine, matches list -->
+        <div id="CONTENT">
+            <div id="LOGO">
+                <img src="/media/logo.svg" onclick="window.location.replace('/')">
+            </div>
+            {% block pagecontent %}
+            {% endblock %}
+        </div>
+
+        <div class="APPSPACER">
+
+        </div>
+
+    </div>
+    
+
+</body>
+
+
+<footer>
+
+</footer>
