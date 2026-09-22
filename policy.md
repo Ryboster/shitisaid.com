@@ -1,7 +1,7 @@
-## shitisaid.com code of conduct
-
+# Code of Conduct
+------
 ##### This document stipulates the rules pertaining to the professional conduct of all persons involved in the development of shitisaid.com.
-
+------------
 <ol>
 <li> 
 Members are <b>not</b> required to attend planned meetings. Attendance is optional but encouraged.    
@@ -59,7 +59,7 @@ All developers are required to complete at least a single ticket per project spr
 You must remain reasonably active. Going cold turkey will count as violation.
 </li>
 </ol>
-
+-----------------
 
 ##### Violation of any of the above rules may lead to expulsion from the project.
 ##### In the case of the team leader, violation may result in the position of the team leader being put up to vote, and the previous leader being demoted to team member.
@@ -69,7 +69,7 @@ You must remain reasonably active. Going cold turkey will count as violation.
 
 
 #### Team Leader Signatures
-
+* Gracjan Blazejowski
 
 #### Team Member Signatures
 
