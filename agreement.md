@@ -1,7 +1,7 @@
-# Code of Conduct
-------
+# Membership agreement
+
 ##### This document stipulates the rules pertaining to the professional conduct of all persons involved in the development of shitisaid.com.
-------------
+-----
 <ol>
 <li> 
 Members are <b>not</b> required to attend planned meetings. Attendance is optional but encouraged.    
@@ -59,7 +59,7 @@ All developers are required to complete at least a single ticket per project spr
 You must remain reasonably active. Going cold turkey will count as violation.
 </li>
 </ol>
------------------
+-----
 
 ##### Violation of any of the above rules may lead to expulsion from the project.
 ##### In the case of the team leader, violation may result in the position of the team leader being put up to vote, and the previous leader being demoted to team member.
@@ -77,5 +77,5 @@ You must remain reasonably active. Going cold turkey will count as violation.
 ##### ... I acknowledge that by signing this document I agree to the rules above and that I may be expelled from the project upon violation.
 
 #### Disclaimer
-##### This document has been defined with the intention of establishing an accountable and professional environment with scheduling constraints in mind. You are allowed to work at your own time and leisure, but you are still required to conduct yourself as a team member.<br>*Keep in mind* that this is an interest-based project. You should ONLY join if you are interested in learning the technologies advertised in the pitch. Regardless of your familiarity, there **will** be a learning curve. *Also keep in mind* that if any difficulties come across, it is our job as team members to help you - Ask and it shall be given.<br> As an active member, you have the power to influence the project in the direction **you** see fit. Your input directly shapes the project's future.
+##### This document has been defined with the intention of establishing an accountable and professional environment with scheduling constraints in mind. You are allowed to work at your own time and leisure, but you are still required to conduct yourself as a team member.<br>KEEP IN MIND that this is an interest-based project. You should ONLY join if you are interested in learning the technologies advertised in the pitch. Regardless of your familiarity, there WILL be a learning curve. ALSO KEEP IN MIND that if any difficulties come across, it is our job as team members to help you - Ask and it shall be given.
 
