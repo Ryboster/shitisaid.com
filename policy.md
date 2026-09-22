@@ -1,16 +1,16 @@
 ## shitisaid.com code of conduct
 
 ##### This document stipulates the rules pertaining to the professional conduct of all persons involved in the development of shitisaid.com.
-
-1. Members are **not** required to attend planned meetings. Attendance is optional but encouraged.
-	a. In event of **absence**, team members are required to watch the shared recording and confirm they have watched it in the appropriate channel up to 24 hours after notification has been sent (excluding weekends).
+<br>
+1. Members are **not** required to attend planned meetings. Attendance is optional but encouraged.<br>
+<tab>	a. In event of **absence**, team members are required to watch the shared recording and confirm they have watched it in the appropriate channel up to 24 hours after notification has been sent (excluding weekends).
 		a. Lack of cursory understanding of the covered material, or covering of the material, will count as violation of 1.a. (I will assume you haven't watched the recording!)
 	b. In event of **absence**, absentee has the obligation to complete any necessary work done collectively in the recording where necessary (e.g. think tanks), and before deadline.
 
 2. Team leaders are required to **independently** record every meeting. Upon meeting's completion, the recording must be shared with all team members within at most 6 hours (including weekends), and a notification about the recording having been shared must be sent in the appropriate channel within 30 minutes of the event.
 
-3. Team Members are required to post **daily** updates *(a.k.a. stand-up's)* in the appropriate channel (even if you have no updates), and in the appropriate sprint format (see convention.md).
-	a. If a team member repeatedly posts updates of no substance, the team leader is obliged to investigate. If resolution cannot be reached, this may count as violation of 12.
+3. Team Members are required to post **daily** updates *(a.k.a. stand-up's)* in the appropriate channel (even if you have no updates), and in the appropriate sprint format (see convention.md).<br>
+<t>a. If a team member repeatedly posts updates of no substance, the team leader is obliged to investigate. If resolution cannot be reached, this may count as violation of 12.
 	
 4. In the event of emergency, relevant person is required to inform the rest of the team, and where feasible, provide estimated date/time of resolution. Verifiable evidence containing personal and/or sensitive data must **NOT** be shared with the team (GDPR breach).
 
